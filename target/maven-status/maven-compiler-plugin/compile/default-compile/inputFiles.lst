@@ -1,0 +1,14 @@
+C:\my_project\airbnb_member\src\main\java\airbnb\AbstractEvent.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MemberDeleted.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MemberJoined.java
+C:\my_project\airbnb_member\src\main\java\airbnb\config\kafka\KafkaProcessor.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MemberRepository.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MemberModified.java
+C:\my_project\airbnb_member\src\main\java\airbnb\Member.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MileageRestored.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MileageUsed.java
+C:\my_project\airbnb_member\src\main\java\airbnb\ReviewCreated.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MemberApplication.java
+C:\my_project\airbnb_member\src\main\java\airbnb\PolicyHandler.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MemberController.java
+C:\my_project\airbnb_member\src\main\java\airbnb\MileageAdded.java

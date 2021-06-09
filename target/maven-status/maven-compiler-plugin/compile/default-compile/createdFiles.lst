@@ -1,0 +1,15 @@
+airbnb\MemberApplication.class
+airbnb\MemberModified.class
+airbnb\config\kafka\KafkaProcessor.class
+airbnb\MemberController.class
+airbnb\MemberDeleted.class
+airbnb\MemberJoined.class
+airbnb\MemberRepository.class
+airbnb\AbstractEvent.class
+airbnb\MileageAdded.class
+airbnb\ReviewCreated.class
+airbnb\Member.class
+airbnb\MileageRestored.class
+airbnb\PolicyHandler.class
+airbnb\MileageUsed.class
+airbnb\AbstractEvent$1.class
